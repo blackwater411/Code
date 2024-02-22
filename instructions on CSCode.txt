@@ -1,0 +1,16 @@
+Sometimes the best you can do is start VSCode from scratch.
+
+First, save all of your work. Then close VSCode, which will also stop all of the extensions you've installed.
+
+Then, reopen VSCode and try again – go to the HTML file you want to view, right click, and select "Open with Live Server".
+
+Set the browser for Live Server
+It's possible that the extension is working, but your system doesn't have a default browser.
+
+Even if you did set the default browser for your system, it wouldn't hurt to let Live Server know which browser you'd like to use explicitly.
+
+First, open the Command Pallete with F1, then type in Preferences: Open Settings (JSON) and select that option.
+
+This will open your VSCode settings.json file.
+
+Scroll all the way to the bottom of the file, add a comma after the last setting, then paste in "liveServer.settings.CustomBrowser": "chrome":

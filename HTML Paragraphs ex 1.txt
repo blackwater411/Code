@@ -1,0 +1,12 @@
+<h1>This is heading </h1>
+<p>This is some text.</p>
+<hr>
+<h2>This is heading </h2>
+<p>This is some other text</p>
+<hr>
+<hr> is an empty tag meaning that it has no end tag
+
+<br> defines a line break 
+if you want a line break or new line without starting another paragraph
+
+<p>This is <br>a paragraph<br>with lines breaks</p>

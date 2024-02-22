@@ -1,0 +1,9 @@
+<p> 
+WWF's mission is to stop the <strong> degradation</strong>of our planet's natural environment. 
+</p>
+
+<em> </em> if you want to emphasize text
+
+<h1 style="font-size:60pxd;">Heading 1</h1> this is used to change the size of any heading 
+
+<hr> defines a thematic break in an HTML page or to serperate content (define change) in the HTML page 
